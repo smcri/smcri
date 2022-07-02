@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**smcri/smcri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on myself.
+- 🌱 I’m currently learning being my best.
+- 👯 I’m looking to collaborate on life.
+- 🤔 I’m looking for help with socialising.
+- 💬 Ask me about anything.
+- 📫 How to reach me: try harder.
+<!-- 😄 Pronouns: just guess and get cancelled. -->
+- ⚡ Fun fact: no facts yet.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Sankalp2002&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp2002&langs_count=5&theme=tokyonight)]()
