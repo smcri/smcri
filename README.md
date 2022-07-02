@@ -9,5 +9,5 @@
 <!-- 😄 Pronouns: just guess and get cancelled. -->
 - ⚡ Fun fact: no facts yet.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Sankalp2002&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp2002&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=smcri&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smcri&langs_count=5&theme=tokyonight)]()
