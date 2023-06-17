@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# Hi! U are the [![](https://count.getloli.com/get/@:smcri)](https://count.getloli.com/)-*th* visitor
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
